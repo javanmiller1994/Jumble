@@ -1,0 +1,8 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/components/payments/mojom/payment_request_data.mojom"
+  ]
+}

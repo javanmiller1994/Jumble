@@ -1,0 +1,26 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/gpu/ipc/common/gpu_preferences_interface.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/gpu/ipc/common/vulkan_interface.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/capabilities.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/context_result.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/device_perf_info.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/dx_diag_node.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/gpu_extra_info.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/gpu_feature_info.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/gpu_info.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/gpu_peak_memory.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/mailbox.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/mailbox_holder.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/memory_stats.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/surface_handle.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/sync_token.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/vulkan_ycbcr_info.mojom",
+    "C:/code/chromium_git/chromium/src/gpu/ipc/common/luid.mojom"
+  ]
+}

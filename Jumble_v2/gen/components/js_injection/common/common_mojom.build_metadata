@@ -1,0 +1,10 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/mojom_core.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/components/js_injection/common/interfaces.mojom",
+    "C:/code/chromium_git/chromium/src/components/js_injection/common/origin_matcher.mojom"
+  ]
+}

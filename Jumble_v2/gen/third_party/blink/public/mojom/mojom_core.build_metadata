@@ -1,0 +1,38 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/android_mojo_bindings.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/mojom_platform.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/web_feature_mojo_bindings.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/cc/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/payments/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/service_manager/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/skia/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/frame/frame.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/frame/frame_owner_properties.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/frame/frame_policy.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/frame/navigation_initiator.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/messaging/cloneable_message.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/messaging/message_port_descriptor.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/messaging/transferable_message.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/messaging/user_activation_snapshot.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/portal/portal.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/controller_service_worker.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/embedded_worker.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/service_worker.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/service_worker_container.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/service_worker_object.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/service_worker_provider.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/service_worker/service_worker_registration.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/worker/shared_worker.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/worker/shared_worker_connector.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/worker/dedicated_worker_host_factory.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/worker/shared_worker_factory.mojom"
+  ]
+}

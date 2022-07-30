@@ -1,0 +1,230 @@
+ Private Sub but_WhatsApp_Click(sender As Object, e As EventArgs) Handles but_WhatsApp.Click
+        web_WhatsApp.BringToFront()
+        timer_WhatsApp.Start()
+        but_Strikethrough.Visible = False
+        but_removeformatting.Visible = False
+        Cur_Activated = "WhatsApp"
+        web_Shared = web_WhatsApp
+        web_Shared.Focus()
+    End Sub
+    Private Sub but_Messages_Click(sender As Object, e As EventArgs) Handles but_Messages.Click
+        If web_Messages.Address = Nothing Or web_Messages.Address = "" Then
+            web_Messages.Load("https://messages.google.com/web/conversations")
+        End If
+        web_Messages.BringToFront()
+        but_Strikethrough.Visible = False
+        but_removeformatting.Visible = False
+        Cur_Activated = "Messages"
+        web_Shared.Focus()
+    End Sub
+
+    Private Sub but_Midweek_Click(sender As Object, e As EventArgs) Handles but_Midweek.Click
+        web_Midweek.BringToFront()
+        but_Strikethrough.Visible = True
+        but_removeformatting.Visible = True
+        Cur_Activated = "Midweek"
+        web_Shared = web_Midweek
+        web_Shared.Focus()
+    End Sub
+
+    Private Sub but_Weekend_Click(sender As Object, e As EventArgs) Handles but_Weekend.Click
+        web_Weekend.BringToFront()
+        but_Strikethrough.Visible = True
+        but_removeformatting.Visible = True
+        Cur_Activated = "Weekend"
+        web_Shared = web_Weekend
+        web_Shared.Focus()
+    End Sub
+
+    Private Sub but_Dropbox_Click(sender As Object, e As EventArgs) Handles but_Dropbox.Click
+        web_Dropbox.BringToFront()
+        but_Strikethrough.Visible = False
+        but_removeformatting.Visible = False
+        Cur_Activated = "Dropbox"
+        web_Shared = web_Dropbox
+        web_Shared.Focus()
+    End Sub
+
+    Private Sub but_Schedule_Click(sender As Object, e As EventArgs) Handles but_Schedule.Click
+        web_Schedule.BringToFront()
+        but_Strikethrough.Visible = False
+        but_removeformatting.Visible = False
+        Cur_Activated = "Schedule"
+        web_Shared = web_Schedule
+        web_Shared.Focus()
+    End Sub
+
+    Private Sub but_Gmail_Click(sender As Object, e As EventArgs) Handles but_Gmail.Click
+        web_Gmail.BringToFront()
+        but_Strikethrough.Visible = False
+        but_removeformatting.Visible = False
+        Cur_Activated = "Gmail"
+        web_Shared = web_Gmail
+        web_Shared.Focus()
+    End Sub
+
+
+
+ Private Sub but_back_Click(sender As Object, e As EventArgs) Handles but_back.Click
+        Select Case Cur_Activated
+            Case "WhatsApp"
+                web_WhatsApp.GetBrowser.GoBack()
+            Case "Messages"
+                web_Messages.GetBrowser.GoBack()
+            Case "Midweek"
+                web_Midweek.GetBrowser.GoBack()
+            Case "Weekend"
+                web_Weekend.GetBrowser.GoBack()
+            Case "Dropbox"
+                web_Dropbox.GetBrowser.GoBack()
+            Case "Schedule"
+                web_Schedule.GetBrowser.GoBack()
+            Case "Calendar"
+                web_Calendar.GetBrowser.GoBack()
+            Case "Drive"
+                web_Drive.GetBrowser.GoBack()
+            Case "Google"
+                web_Google.GetBrowser.GoBack()
+            Case "Instagram"
+                web_Instagram.GetBrowser.GoBack()
+            Case "Facebook"
+                web_Facebook.GetBrowser.GoBack()
+            Case "Life360"
+                web_Life360.GetBrowser.GoBack()
+
+        End Select
+    End Sub
+
+    Private Sub but_Forward_Click(sender As Object, e As EventArgs) Handles but_Forward.Click
+        Select Case Cur_Activated
+            Case "WhatsApp"
+                web_WhatsApp.GetBrowser.GoForward()
+            Case "Messages"
+                web_Messages.GetBrowser.GoForward()
+            Case "Midweek"
+                web_Midweek.GetBrowser.GoForward()
+            Case "Weekend"
+                web_Weekend.GetBrowser.GoForward()
+            Case "Dropbox"
+                web_Dropbox.GetBrowser.GoForward()
+            Case "Schedule"
+                web_Schedule.GetBrowser.GoForward()
+            Case "Calendar"
+                web_Calendar.GetBrowser.GoForward()
+            Case "Drive"
+                web_Drive.GetBrowser.GoForward()
+            Case "Google"
+                web_Google.GetBrowser.GoForward()
+            Case "Instagram"
+                web_Instagram.GetBrowser.GoForward()
+            Case "Facebook"
+                web_Facebook.GetBrowser.GoForward()
+            Case "Life360"
+                web_Life360.GetBrowser.GoForward()
+        End Select
+    End Sub
+
+
+    Private Sub but_Reload_Click(sender As Object, e As EventArgs) Handles but_Reload.Click
+        Select Case Cur_Activated
+            Case "WhatsApp"
+                web_WhatsApp.GetBrowser.Reload()
+            Case "Messages"
+                web_Messages.GetBrowser.Reload()
+            Case "Midweek"
+                web_Midweek.GetBrowser.Reload()
+            Case "Weekend"
+                web_Weekend.GetBrowser.Reload()
+            Case "Dropbox"
+                web_Dropbox.GetBrowser.Reload()
+            Case "Schedule"
+                web_Schedule.GetBrowser.Reload()
+            Case "Calendar"
+                web_Calendar.GetBrowser.Reload()
+            Case "Drive"
+                web_Drive.GetBrowser.Reload()
+            Case "Google"
+                web_Google.GetBrowser.Reload()
+            Case "Instagram"
+                web_Instagram.GetBrowser.Reload()
+            Case "Facebook"
+                web_Facebook.GetBrowser.Reload()
+            Case "Life360"
+                web_Life360.GetBrowser.Reload()
+        End Select
+    End Sub
+
+
+
+
+formmore
+
+
+  Private Sub but_Calendar_Click(sender As Object, e As EventArgs) Handles but_Calendar.Click
+        If Form1.web_Calendar.Address = Nothing Or Form1.web_Calendar.Address = "" Then
+            Form1.web_Calendar.Load("https://calendar.google.com/calendar/u/" & Form1.GoogleAcoount & "/r")
+        End If
+        Form1.web_Calendar.BringToFront()
+        Form1.web_Shared = Form1.web_Calendar
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub
+
+    Private Sub but_Drive_Click(sender As Object, e As EventArgs) Handles but_Drive.Click
+        Form1.web_Drive.BringToFront()
+        Form1.web_Shared = Form1.web_Drive
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub
+
+    Private Sub but_Google_Click(sender As Object, e As EventArgs) Handles but_Google.Click
+        If Form1.web_Google.Address = Nothing Or Form1.web_Google.Address = "" Then
+            Form1.web_Google.Load("https://google.com/")
+        End If
+        Form1.web_Google.BringToFront()
+        Form1.web_Shared = Form1.web_Google
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub
+
+    Private Sub but_Instagram_Click(sender As Object, e As EventArgs) Handles but_Instagram.Click
+        If Form1.web_Instagram.Address = Nothing Or Form1.web_Instagram.Address = "" Then
+            Form1.web_Instagram.Load("https://instagram.com/")
+        End If
+        Form1.web_Instagram.BringToFront()
+        Form1.web_Shared = Form1.web_Instagram
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub
+
+    Private Sub but_Facebook_Click(sender As Object, e As EventArgs) Handles but_Facebook.Click
+        If Form1.web_Facebook.Address = Nothing Or Form1.web_Facebook.Address = "" Then
+            Form1.web_Facebook.Load("https://facebook.com/")
+        End If
+        Form1.web_Facebook.BringToFront()
+        Form1.web_Shared = Form1.web_Facebook
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub
+
+    Private Sub but_Life360_Click(sender As Object, e As EventArgs) Handles but_Life360.Click
+        If Form1.web_Life360.Address = Nothing Or Form1.web_Life360.Address = "" Then
+            Form1.web_Life360.Load("https://www.life360.com/circles/#/map")
+        End If
+        Form1.web_Life360.BringToFront()
+        Form1.web_Shared = Form1.web_Life360
+        Form1.web_Shared.Focus()
+        Form1.but_Strikethrough.Visible = False
+        Form1.but_removeformatting.Visible = False
+        Me.Close()
+    End Sub

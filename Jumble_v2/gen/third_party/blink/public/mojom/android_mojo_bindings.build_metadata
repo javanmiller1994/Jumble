@@ -1,0 +1,31 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/payments/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/schema_org/common/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/media_session/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/blob/blob.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/blob/blob_registry.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/blob/blob_url_store.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/blob/data_element.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/blob/serialized_blob.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/digital_goods/digital_goods.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/document_metadata/document_metadata.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/font_unique_name_lookup/font_unique_name_lookup.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/input/input_host.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/input/input_messages.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/installation/installation.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/installedapp/installed_app_provider.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/installedapp/related_application.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/mediasession/media_session.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/payments/payment_handler_host.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/payments/payment_request.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/webauthn/authenticator.mojom",
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/webshare/webshare.mojom"
+  ]
+}

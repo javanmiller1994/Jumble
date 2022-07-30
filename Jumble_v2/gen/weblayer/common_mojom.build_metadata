@@ -1,0 +1,9 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/content_settings/core/common/mojo_bindings.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/weblayer/common/error_page_helper.mojom",
+    "c:/code/chromium_git/chromium/src/weblayer/common/renderer_configuration.mojom"
+  ]
+}

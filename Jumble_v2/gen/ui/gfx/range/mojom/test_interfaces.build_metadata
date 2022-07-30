@@ -1,0 +1,8 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/range/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/ui/gfx/range/mojom/range_traits_test_service.mojom"
+  ]
+}

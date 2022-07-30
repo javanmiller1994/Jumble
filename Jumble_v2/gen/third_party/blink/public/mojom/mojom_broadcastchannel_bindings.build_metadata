@@ -1,0 +1,9 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/mojom_core.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/third_party/blink/public/mojom/broadcastchannel/broadcast_channel.mojom"
+  ]
+}

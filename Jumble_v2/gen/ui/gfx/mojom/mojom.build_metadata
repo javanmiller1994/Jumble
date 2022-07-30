@@ -1,0 +1,23 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/mojom/native_handle_types.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/accelerated_widget.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/buffer_types.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/ca_layer_params.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/color_space.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/display_color_spaces.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/font_render_params.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/gpu_fence_handle.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/overlay_transform.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/presentation_feedback.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/rrect_f.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/selection_bound.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/swap_result.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/swap_timings.mojom",
+    "C:/code/chromium_git/chromium/src/ui/gfx/mojom/transform.mojom"
+  ]
+}

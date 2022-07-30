@@ -1,0 +1,12 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/autofill/core/common/mojom/mojo_types.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/components/autofill/content/common/mojom/autofill_agent.mojom",
+    "c:/code/chromium_git/chromium/src/components/autofill/content/common/mojom/autofill_driver.mojom"
+  ]
+}

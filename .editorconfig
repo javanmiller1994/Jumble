@@ -1,0 +1,13 @@
+﻿[*.vb]
+
+# BC42104: Variable is used before it has been assigned a value
+dotnet_diagnostic.BC42104.severity = none
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
+
+# BC42016: Implicit conversion
+dotnet_diagnostic.BC42016.severity = none
+
+# BC42017: Late bound resolution
+dotnet_diagnostic.BC42017.severity = none

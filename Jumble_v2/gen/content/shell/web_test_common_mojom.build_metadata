@@ -1,0 +1,17 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/content/public/common/web_preferences_mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/skia/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/accessibility/ax_enums_mojo.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/content/shell/common/web_test/fake_bluetooth_chooser.mojom",
+    "C:/code/chromium_git/chromium/src/content/shell/common/web_test/mojo_echo.mojom",
+    "C:/code/chromium_git/chromium/src/content/shell/common/web_test/web_test.mojom",
+    "C:/code/chromium_git/chromium/src/content/shell/common/web_test/web_test_bluetooth_fake_adapter_setter.mojom"
+  ]
+}

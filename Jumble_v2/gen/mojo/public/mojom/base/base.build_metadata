@@ -1,0 +1,31 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/application_state.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/big_buffer.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/big_string.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/binder.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/file.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/file_error.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/file_info.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/file_path.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/generic_pending_receiver.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/memory_allocator_dump_cross_process_uid.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/memory_pressure_level.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/message_pump_type.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/process_id.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/read_only_buffer.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/ref_counted_memory.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/shared_memory.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/string16.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/text_direction.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/thread_priority.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/time.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/token.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/unguessable_token.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/values.mojom",
+    "C:/code/chromium_git/chromium/src/mojo/public/mojom/base/logfont_win.mojom"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/content_capture/common/mojo_types.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/components/content_capture/common/traits_test_service.test-mojom"
+  ]
+}

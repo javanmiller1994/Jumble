@@ -1,0 +1,33 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/mutable_network_traffic_annotation_interface.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/battery_monitor.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/battery_status.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/bluetooth_system.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/fingerprint.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/geolocation.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/geolocation_config.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/geolocation_context.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/geolocation_control.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/geoposition.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/hid.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/input_service.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/nfc.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/nfc_provider.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/power_monitor.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/public_ip_address_geolocation_provider.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/screen_orientation.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/screen_orientation_lock_types.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/serial.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/time_zone_monitor.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/vibration_manager.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/wake_lock.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/wake_lock_context.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/wake_lock_provider.mojom"
+  ]
+}

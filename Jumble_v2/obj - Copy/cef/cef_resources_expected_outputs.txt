@@ -1,0 +1,2 @@
+gen/cef/grit/cef_resources.h
+gen/cef/cef_resources.pak

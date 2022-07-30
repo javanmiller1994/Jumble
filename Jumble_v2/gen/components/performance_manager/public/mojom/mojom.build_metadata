@@ -1,0 +1,9 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/components/performance_manager/public/mojom/coordination_unit.mojom",
+    "c:/code/chromium_git/chromium/src/components/performance_manager/public/mojom/lifecycle.mojom"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/content/shell/common/shell_controller.test-mojom"
+  ]
+}

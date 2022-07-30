@@ -1,0 +1,11 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/address_family.mojom",
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/address_list.mojom",
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/ip_address.mojom",
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/ip_endpoint.mojom"
+  ]
+}

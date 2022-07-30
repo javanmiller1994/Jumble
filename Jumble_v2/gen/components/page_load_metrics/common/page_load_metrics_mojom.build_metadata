@@ -1,0 +1,11 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/web_feature_mojo_bindings.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/components/page_load_metrics/common/page_load_metrics.mojom"
+  ]
+}

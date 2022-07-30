@@ -1,0 +1,21 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/media/capture/mojom/image_capture.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/media/capture/mojom/video_capture.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/media/mojo/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/device.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/device_factory.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/devices_changed_observer.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/producer.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/scoped_access_permission.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/testing_controls.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/video_capture_service.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/video_frame_handler.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/video_source.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/video_source_provider.mojom",
+    "c:/code/chromium_git/chromium/src/services/video_capture/public/mojom/virtual_device.mojom"
+  ]
+}

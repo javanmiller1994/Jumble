@@ -1,0 +1,13 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/gpu/ipc/common/interfaces.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/media/mojo/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/media/capture/mojom/video_capture.mojom",
+    "C:/code/chromium_git/chromium/src/media/capture/mojom/video_capture_types.mojom"
+  ]
+}

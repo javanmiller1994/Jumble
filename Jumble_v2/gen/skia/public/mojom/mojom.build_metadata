@@ -1,0 +1,11 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/skia/public/mojom/bitmap.mojom",
+    "C:/code/chromium_git/chromium/src/skia/public/mojom/blur_image_filter_tile_mode.mojom",
+    "C:/code/chromium_git/chromium/src/skia/public/mojom/image_info.mojom",
+    "C:/code/chromium_git/chromium/src/skia/public/mojom/skcolor.mojom"
+  ]
+}

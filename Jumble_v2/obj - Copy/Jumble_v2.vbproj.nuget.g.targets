@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)cefsharp.common\84.4.10\build\CefSharp.Common.targets" Condition="Exists('$(NuGetPackageRoot)cefsharp.common\84.4.10\build\CefSharp.Common.targets')" />
+    <Import Project="$(NuGetPackageRoot)cefsharp.winforms\84.4.10\build\CefSharp.WinForms.targets" Condition="Exists('$(NuGetPackageRoot)cefsharp.winforms\84.4.10\build\CefSharp.WinForms.targets')" />
+    <Import Project="$(NuGetPackageRoot)cefsharp.h.264.core\79.1.360.1\build\CefSharp.H.264.Core.targets" Condition="Exists('$(NuGetPackageRoot)cefsharp.h.264.core\79.1.360.1\build\CefSharp.H.264.Core.targets')" />
+    <Import Project="$(NuGetPackageRoot)cefsharp.h.264\79.1.360.1\build\CefSharp.H.264.targets" Condition="Exists('$(NuGetPackageRoot)cefsharp.h.264\79.1.360.1\build\CefSharp.H.264.targets')" />
+  </ImportGroup>
+</Project>

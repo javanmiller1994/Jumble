@@ -1,0 +1,9 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/chrome/test/data/webui/mojo/foobar.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/test/data/webui/web_ui_test.mojom"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/chunked_data_pipe_getter.mojom",
+    "C:/code/chromium_git/chromium/src/services/network/public/mojom/data_pipe_getter.mojom"
+  ]
+}

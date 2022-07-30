@@ -1,0 +1,31 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/content_settings/core/common/mojo_bindings.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/prerender/common/mojo_bindings.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/content/public/common/interfaces.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/third_party/blink/public/mojom/mojom_platform.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/image/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_origin.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/chrome/services/file_util/public/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/chrome/common/cache_stats_recorder.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/chrome_render_frame.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/media/webrtc_logging.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/metrics.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/net/net_error_page_support.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/net_benchmarking.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/network_diagnostics.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/network_easter_egg.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/open_search_description_document_handler.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/plugin.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/renderer_configuration.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/subresource_redirect_service.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/sync_encryption_keys_extension.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/caption.mojom",
+    "C:/code/chromium_git/chromium/src/chrome/common/conflicts/module_event_sink_win.mojom"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/usb_device.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/usb_enumeration_options.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/usb_manager.mojom",
+    "C:/code/chromium_git/chromium/src/services/device/public/mojom/usb_manager_client.mojom"
+  ]
+}

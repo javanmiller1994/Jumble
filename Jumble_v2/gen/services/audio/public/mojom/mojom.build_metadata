@@ -1,0 +1,16 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/media/mojo/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/audio_device_description.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/audio_service.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/debug_recording.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/device_notifications.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/log_factory_manager.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/stream_factory.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/system_info.mojom",
+    "c:/code/chromium_git/chromium/src/services/audio/public/mojom/testing_api.mojom"
+  ]
+}

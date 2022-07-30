@@ -1,0 +1,13 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/latency/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/ui/events/mojom/event.mojom",
+    "C:/code/chromium_git/chromium/src/ui/events/mojom/event_constants.mojom",
+    "C:/code/chromium_git/chromium/src/ui/events/mojom/keyboard_codes.mojom",
+    "C:/code/chromium_git/chromium/src/ui/events/mojom/scroll_granularity.mojom"
+  ]
+}

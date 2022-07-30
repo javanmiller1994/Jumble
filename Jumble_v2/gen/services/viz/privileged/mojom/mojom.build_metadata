@@ -1,0 +1,13 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/components/discardable_memory/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/viz/privileged/mojom/compositing/compositing.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/viz/privileged/mojom/gl/gl.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/viz/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/services/viz/privileged/mojom/viz_main.mojom"
+  ]
+}

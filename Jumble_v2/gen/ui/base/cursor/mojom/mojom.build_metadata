@@ -1,0 +1,10 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/base/cursor/mojom/cursor_type.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/skia/public/mojom/mojom.build_metadata",
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/ui/base/cursor/mojom/cursor.mojom"
+  ]
+}

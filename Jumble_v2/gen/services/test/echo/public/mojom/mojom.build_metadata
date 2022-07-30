@@ -1,0 +1,8 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/services/test/echo/public/mojom/echo.mojom"
+  ]
+}

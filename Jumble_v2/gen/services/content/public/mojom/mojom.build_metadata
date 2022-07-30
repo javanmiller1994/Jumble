@@ -1,0 +1,14 @@
+{
+  "deps": [
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/mojo/public/mojom/base/base.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/services/network/public/mojom/websocket_mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/accessibility/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/base/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/ui/gfx/geometry/mojom/mojom.build_metadata",
+    "c:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/url/mojom/url_mojom_gurl.build_metadata"
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/services/content/public/mojom/navigable_contents.mojom",
+    "c:/code/chromium_git/chromium/src/services/content/public/mojom/navigable_contents_factory.mojom"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "deps": [
+    "C:/code/chromium_git/chromium/src/out/Debug_GN_x86/gen/skia/public/mojom/mojom.build_metadata"
+  ],
+  "sources": [
+    "C:/code/chromium_git/chromium/src/ui/gfx/image/mojom/image.mojom"
+  ]
+}

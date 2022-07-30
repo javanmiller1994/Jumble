@@ -1,0 +1,8 @@
+{
+  "deps": [
+
+  ],
+  "sources": [
+    "c:/code/chromium_git/chromium/src/services/image_annotation/public/mojom/image_annotation.mojom"
+  ]
+}
