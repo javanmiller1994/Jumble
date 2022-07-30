@@ -56,7 +56,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <DefineTrace>true</DefineTrace>
-    <OutputPath>bin\x86\Release\</OutputPath>
+    <OutputPath>bin\x86\Debug\</OutputPath>
     <Optimize>true</Optimize>
     <DebugType>pdbonly</DebugType>
     <PlatformTarget>x86</PlatformTarget>
@@ -70,29 +70,28 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CefSharp, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.dll</HintPath>
+    <Reference Include="CefSharp">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="CefSharp.BrowserSubprocess, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.BrowserSubprocess.dll</HintPath>
+    <Reference Include="CefSharp.BrowserSubprocess">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.BrowserSubprocess.dll</HintPath>
     </Reference>
-    <Reference Include="CefSharp.BrowserSubprocess.Core, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.BrowserSubprocess.Core.dll</HintPath>
+    <Reference Include="CefSharp.BrowserSubprocess.Core">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.BrowserSubprocess.Core.dll</HintPath>
     </Reference>
-    <Reference Include="CefSharp.Core, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.Core.dll</HintPath>
+    <Reference Include="CefSharp.Core">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.Core.dll</HintPath>
     </Reference>
-    <Reference Include="CefSharp.OffScreen, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.OffScreen.dll</HintPath>
+    <Reference Include="CefSharp.OffScreen">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.OffScreen.dll</HintPath>
     </Reference>
-    <Reference Include="CefSharp.WinForms, Version=79.1.360.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.WinForms.dll</HintPath>
+    <Reference Include="CefSharp.WinForms">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CefSharp.Wpf">
+      <HintPath>C:\Users\Work\.nuget\packages\cefsharp.h.264.core\79.1.360.2\x86\CefSharp.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.BonusSkins.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -343,6 +342,9 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="bin\x86\Release\CefSharp.WinForms.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
